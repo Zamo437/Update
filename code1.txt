@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Motoren</title>
+ <link rel="stylesheet" href="./css/styles03.css"/>
+ </head>
+
+<body>
+ <header>
+        <div class="container">
+            <div id="branding">
+                <h1>
+                    <img src="img/w-hs_pagelogo.png" width="120px" height="50px;" />
+                </h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current">
+                       <a href="page.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="page5.html">Kontakt</a>
+                    </li>
+                    <li>
+                        <a href="page4.html">Impressum</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section1">
+        <div class="row container">
+            <div class="image1 left">
+                
+            </div>
+
+            <div class="description">
+                <h1>Übersicht</h1>
+               <p> Mercedes-AMG gewinnt gleich 2 begehrte Trophäen bei den „Engine of the Year Awards 2014“: Der AMG 2,0-Liter-Vierzylinder-Turbomotor sichert sich einen souveränen Doppelsieg in den Kategorien „New engine 2014“ und „1.8-litre to 2-litre“. Beide Preise wurden heute im Rahmen der Motorenmesse „Engine Expo“ in Stuttgart verliehen.</p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <button class="fb-button">
+                    f
+                </button>
+
+                <button class="tw-button">
+                    t
+                </button>
+            </div>
+        </div>
+
+        <div class="row container">
+            <div class="description2 left">
+                <h1>Übersicht</h1>
+               <p>Gegenüber dem Vorgänger M52 wurde der Hubraum beim M54B22 und beim M54B30 durch einen etwas längeren Hub um je 0,2 l vergrößert. Die teilweise signifikanten Leistungssteigerungen (28 kW im Fall der 3-Liter-Maschine) wurden aber zum größten Teil durch Reduktion der Strömungswiderstände auf Ein- und Auslassseite des Motors erreicht.</p>
+                <br>
+                <br>
+                <br>
+                <button class="fb-button">
+                    f
+                </button>
+
+                <button class="tw-button">
+                    t
+                </button>
+            </div>
+
+            <div class="image2 right">
+                
+            </div>
+        </div>
+
+        <div class="row container">
+            <div class="image3 left">
+                
+            </div>
+
+            <div class="description">
+                <h1>Übersicht</h1>
+                <p>Im Motorenprogramm von Audi ist der 4.2 TDI das drehmomentstärkste Aggregat: In seiner jüngsten Evolutionsstufe im Audi A8 stehen zwischen 2.000 und 2.750 Umdrehungen pro Minute 850 Nm bereit; seine 283 kW (385 PS) Leistung werden schon bei 3.750 Touren frei.</p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <button class="fb-button">
+                    f
+                </button>
+
+                <button class="tw-button">
+                    t
+                </button>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <p>
+            <b> GRUPPE Georges  &copy; 2017</b>
+        </p>
+    </footer>
+
+
+</body>
+
+</html>
